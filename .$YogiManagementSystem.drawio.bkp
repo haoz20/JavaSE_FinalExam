@@ -1,0 +1,107 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="t73hdH9eEiHgfrcnBKRS">
+    <mxGraphModel dx="2482" dy="1083" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-SajLlo73AzBW5nHB910-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Yogi&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-SajLlo73AzBW5nHB910-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Old Yogi&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="650" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-SajLlo73AzBW5nHB910-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;New Yogi&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="660" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-SajLlo73AzBW5nHB910-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Meditation Class&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="330" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-SajLlo73AzBW5nHB910-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Monk&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-SajLlo73AzBW5nHB910-6" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Group Type&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-355" y="80" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-SajLlo73AzBW5nHB910-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Online Meditation Center&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="700" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-SajLlo73AzBW5nHB910-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Missionary Group&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-355" y="330" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-SajLlo73AzBW5nHB910-15" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-SajLlo73AzBW5nHB910-5" target="-SajLlo73AzBW5nHB910-8">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-470" y="360" as="sourcePoint" />
+            <mxPoint x="-355" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-SajLlo73AzBW5nHB910-17" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-SajLlo73AzBW5nHB910-8" target="-SajLlo73AzBW5nHB910-4">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-320" y="470" as="sourcePoint" />
+            <mxPoint x="-335" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-420" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-SajLlo73AzBW5nHB910-19" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-SajLlo73AzBW5nHB910-6" target="-SajLlo73AzBW5nHB910-8">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-170" y="280" as="sourcePoint" />
+            <mxPoint x="-70" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-SajLlo73AzBW5nHB910-21" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;AI Meditation Guide&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="820" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-SajLlo73AzBW5nHB910-24" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Human Online Volunteer&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="820" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-SajLlo73AzBW5nHB910-25" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-SajLlo73AzBW5nHB910-21" target="-SajLlo73AzBW5nHB910-7">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="30" y="840" as="sourcePoint" />
+            <mxPoint x="670" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-SajLlo73AzBW5nHB910-28" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-SajLlo73AzBW5nHB910-7" target="-SajLlo73AzBW5nHB910-24">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="610" y="810" as="sourcePoint" />
+            <mxPoint x="330" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-SajLlo73AzBW5nHB910-29" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;startArrow=ERmany;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-SajLlo73AzBW5nHB910-8" target="-SajLlo73AzBW5nHB910-1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-240" y="410" as="sourcePoint" />
+            <mxPoint x="-80" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-190" y="410" />
+              <mxPoint x="-250" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-SajLlo73AzBW5nHB910-31" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;1.&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 24px; background-color: initial;&quot;&gt;A Yogi can enroll in many Meditation Classes.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;Many Yogi can be part of a Missionary Group.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;The relationship between Monk and Missionary Group is 1 to Many, 1..1 to 1..*.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;The relationship between Yogi and Online Meditation Center is 1 to Many relationship.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="1075" width="970" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="-SajLlo73AzBW5nHB910-32" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-SajLlo73AzBW5nHB910-7" target="-SajLlo73AzBW5nHB910-1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="350" y="620" as="sourcePoint" />
+            <mxPoint x="50" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-165" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-SajLlo73AzBW5nHB910-33" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.13;entryY=1.026;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-SajLlo73AzBW5nHB910-3" target="-SajLlo73AzBW5nHB910-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-355" y="630" as="sourcePoint" />
+            <mxPoint x="-195" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-SajLlo73AzBW5nHB910-34" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.436;exitY=-0.05;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="-SajLlo73AzBW5nHB910-2" target="-SajLlo73AzBW5nHB910-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-216" y="670" as="sourcePoint" />
+            <mxPoint x="-110" y="582" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
